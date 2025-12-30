@@ -7,9 +7,7 @@ import jakarta.persistence.*;
 
 import java.io.Serializable;
 import java.time.Instant;
-import java.util.List;
 import java.util.Objects;
-import java.util.regex.Pattern;
 
 @Entity
 @Table(name = "tb_order")
